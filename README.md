@@ -1,4 +1,4 @@
-#Manim Projects
+Manim Projects
 
 This repository contains my projects built using Manim, a mathematical animation engine used to visualize concepts in mathematics, physics, and computer science.
 
