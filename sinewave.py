@@ -73,4 +73,4 @@ class SineWaveAnimation(Scene):
             run_time=3
         )
         self.wait()
-        #YAY
+        #Re-run if you are finding any issues. One fix can be downloading an older python version such as 3.11 as manim is still yet to adapt to newer python versions
